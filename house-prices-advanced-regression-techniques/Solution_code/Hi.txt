@@ -1,0 +1,1 @@
+Here you will find my code to solve the Kaggle problem of finding House Prices. Problem description here: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
